@@ -2,9 +2,9 @@ body{
     background-color: grey;
     color: red;
 }
-.container{
+.container {
     width: 80%
-    margin:auto
+    margin 
 }
 
 .box-1{
